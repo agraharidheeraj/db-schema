@@ -8,7 +8,6 @@
    - `email`: email
    - `password`: string
    - `date_of_registration`: date
-   - `points`: integer
 
 2. **UserProfile**
    - `id`: string (primary_key)
